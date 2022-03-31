@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CatalinaPope
-- 👀 I’m interested in all things coding, family, friends and a good action movie.
+- 👀 I’m interested in all things coding, family, friends, diy projects and a good action movie.
 - 🌱 I’m currently learning ...JavaScript & GitHub, I've completed HTML and CSS
 - 💞️ I’m looking to collaborate on ...Newbie projects
 - 📫 How to reach me ...
