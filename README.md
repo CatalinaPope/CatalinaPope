@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iAmLisaJb previouly@CatalinaPope
+- 👋 Hi, I’m @iamLisaJB
 - 👀 I’m interested in all things coding, family, friends, diy projects and a good action movie.
 - 🌱 I’m currently learning ...JavaScript & GitHub, I've completed HTML and CSS
 - 💞️ I’m looking to collaborate on ...Newbie projects
