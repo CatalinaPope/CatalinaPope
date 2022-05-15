@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamLisaJB
-- 👀 I’m creative at heart, I love family, friends, and a good action movie.
+- 👀 I’m creative at heart, I love family, friends, anything aesthetically pleasing, and let's not forget a good MARVEL movie.
 - 🌱 I’m currently creating solutions ...HTML, CSS JavaScript
 - 💞️ I’m looking to collaborate on ...Newbie projects
 - 📫 How to reach me ...
